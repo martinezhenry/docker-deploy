@@ -14,10 +14,6 @@ variable "publish_port" {
   type = string
 }
 
-variable "service_name" {
-  type = string
-}
-
 variable "replicas_nr" {
   type = number
 }

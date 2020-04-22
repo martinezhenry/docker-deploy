@@ -7,7 +7,7 @@ replicas_nr = 1
 
 docker_repo = "git@code.novopayment.com:hmartinez/docker.git"
 branch = "develop"
-file_source = "/tmp/docker/novotrans/daemon/general/docker-compose.yml"
+file_source = "C:/Temp/docker/novotrans/daemon/general/docker-compose.yml"
 
 export_list = [
   "export image_name=processing-dev.novopayment.net:2202/novotrans/daemon",
